@@ -1,7 +1,7 @@
 ## Hi 
 ### I’m Etisham :)
 
-I am a self-taught full-stack developer, currently learning the MERN tech stack. I have experience coding in Python and have made a few personal projects, which you can find in my repos. Work projects using MySQL has also helped me improve my SQL skills. HTML, CSS and Bootstrap are my strongest front end technologies and I am now working on learning JavaScript.
+I am a self-taught full-stack developer, currently learning the MERN tech stack. I have experience coding in Python and have made a few personal projects, which you can find in my repos. Work projects using MySQL has also helped me improve my SQL skills. HTML, CSS, JavaScript and Bootstrap are my strongest front end technologies and I am now working on learning jQuery.
 
 
 
